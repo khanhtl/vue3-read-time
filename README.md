@@ -1,4 +1,11 @@
 # Vue 3 Read Time
+Plugin vue 3 to caculate reading time paragraph
+
+## Install
+
+``` sh
+npm install vue3-read-time
+```
 
 ## Configuration
 ``` ts
