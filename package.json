@@ -1,6 +1,6 @@
 {
-  "name": "vue-read-time",
-  "version": "1.0.0",
+  "name": "vue3-read-time",
+  "version": "1.0.2",
   "type": "module",
   "files": [
     "dist"
@@ -11,8 +11,7 @@
     ".": {
       "import": "./dist/vue-read-time.js",
       "require": "./dist/vue-read-time.umd.cjs"
-    },
-    "./style.css": "./dist/style.css"
+    }
   },
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -22,8 +21,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.47",
-    "test-component-lib": "file:../test-component-lib"
+    "vue": "^3.2.47"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
