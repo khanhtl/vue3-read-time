@@ -1,10 +1,14 @@
 {
   "name": "vue3-read-time",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khanhtl/vue3-read-time.git"
+  },
   "main": "./dist/vue-read-time.umd.cjs",
   "module": "./dist/vue-read-time.js",
   "exports": {
